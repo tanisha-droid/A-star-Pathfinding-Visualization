@@ -1,4 +1,4 @@
-# AStar-BFS-Visiualizer</br>
+# Sorting and Searching Visualizers</br>
 ![](visualizer.gif)</br>
 Visualiztion of Shortest distance between 2 points using A* Algorithm and BFS (Dijkstra’s) Algorithm. Build using python. </br> </br>
 Use left click to build start, end point and walls and right click to erase them. <br>
@@ -14,3 +14,13 @@ Controls:
 - B: Greedy Best First Search
 - C: Clear board
 - Space: Go
+
+## Sorting-Visualizer
+A Sorting Algorithm Visualizer scripted in Python using Pygame.
+![](merge-sort-gif.gif)</br>
+##### Sorting Algorithms Included:
+- Bubble Sort
+- Selection Sort
+- Quick Sort
+- Merge Sort
+- Heap Sort
